@@ -1,2 +1,0 @@
-# SHOPPER
-E-Commerce Website
